@@ -1,2 +1,2 @@
-# cappy
+# Capstone
  
